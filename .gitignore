@@ -1,0 +1,8 @@
+*.pyc
+example_bots/*
+maps/*
+*.zip
+.DS_Store
+.idea/*
+log.txt
+tools/*
